@@ -8,11 +8,13 @@
       "UserExpireDate": "23-October-2023",
       "UserLastSubcription": "23-September-2023",
       "UserActive": "Active",
-      "UserMsg": "Empty",
+      "UserMsg": " Thanks For Using Spark TV, No New Message",
       "UserBlocked": "Unblocked",
-      "UserState": "Null, Provide this ",
-      "UserPhone": "null, provide this",
-      "UserEmail": "jeffcool2023@gmail.com"
+      "UserState": "Null, Provide this information",
+      "UserPhone": "Null, provide this information",
+      "UserEmail": "jeffcool2023@gmail.com",
+      "radio": "basic",
+      "movie": "basic"
     }
   ]
 }
